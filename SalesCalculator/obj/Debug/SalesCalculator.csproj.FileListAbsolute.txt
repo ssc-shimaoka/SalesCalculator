@@ -1,0 +1,7 @@
+C:\VS2019\SalesCalculator\SalesCalculator\obj\Debug\SalesCalculator.csprojAssemblyReference.cache
+C:\VS2019\SalesCalculator\SalesCalculator\obj\Debug\SalesCalculator.csproj.CoreCompileInputs.cache
+C:\VS2019\SalesCalculator\SalesCalculator\bin\Debug\SalesCalculator.exe.config
+C:\VS2019\SalesCalculator\SalesCalculator\bin\Debug\SalesCalculator.exe
+C:\VS2019\SalesCalculator\SalesCalculator\bin\Debug\SalesCalculator.pdb
+C:\VS2019\SalesCalculator\SalesCalculator\obj\Debug\SalesCalculator.exe
+C:\VS2019\SalesCalculator\SalesCalculator\obj\Debug\SalesCalculator.pdb
